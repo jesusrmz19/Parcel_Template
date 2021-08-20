@@ -35,6 +35,8 @@ git remote set-url origin https://github.com/user/example.git
 
 That's it! The command above will change the origin of your repo and now the next change you make will commit all the files to the new repo you just created.
 
+NOTE: Remember to run npm install in your machine after changing the repo so you can use the packages 😎
+
 ## Author
 
 - Website - [Jesus Ramirez](https://jesusrmz.com/)
